@@ -1,5 +1,5 @@
 # yuque-sync
-[![Build Status](https://travis-ci.org/gudegg/yuque-sync.svg?branch=user_conf)](https://travis-ci.org/gudegg/yuque-sync)
+[![Build Status](https://travis-ci.org/gudegg/yuque-sync.svg?branch=master)](https://travis-ci.org/gudegg/yuque-sync)
 
 
 同步[语雀](https://www.yuque.com)markdown格式到本地,支持hexo、hugo静态博客格式,只支持公开下载
