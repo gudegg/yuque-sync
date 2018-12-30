@@ -3,5 +3,6 @@ go:
   - 1.11.2
 install:
   - go get -u github.com/tidwall/gjson
+  - go get -u github.com/tidwall/match
 script:
   - go build main.go
