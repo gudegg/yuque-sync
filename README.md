@@ -6,7 +6,7 @@
 
 
 # 使用
-
+[下载](https://github.com/gudegg/yuque-sync/releases)系统对应版本
 ```shell
 yuque-sync -n=namespace [options:-o、-p、-t]
 ```
